@@ -22,5 +22,9 @@
 > Message: 訊息
 
 
+# 執行
+
+> dotnet run
+
 
 
