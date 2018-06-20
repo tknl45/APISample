@@ -53,8 +53,8 @@ namespace APISample
                 c.SwaggerDoc("v1", new Info
                 {
                     Version = "v1",
-                    Title = "PushProxy API",
-                    Description = "PushProxy - ASP.NET Core Web API",
+                    Title = "APISample API",
+                    Description = "APISample - ASP.NET Core Web API",
                     TermsOfService = "None",
                     Contact = new Contact
                     {

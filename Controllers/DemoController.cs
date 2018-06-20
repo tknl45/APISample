@@ -28,7 +28,6 @@ namespace APISample.Controllers
         [HttpGet("demo_error")]
         public void demo_error(string message)
         {
-            this.Message = message;
             throw new ArgumentException("ERROR");
         }
 
